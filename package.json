@@ -1,7 +1,7 @@
 {
   "name": "runjs",
   "main": "./lib/runjs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Allows you to run JS snippets using ```runjs",
   "keywords": [
     "run",
