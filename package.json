@@ -1,0 +1,20 @@
+{
+  "name": "runjs",
+  "main": "./lib/runjs",
+  "version": "0.0.0",
+  "description": "Allows you to run JS snippets using ```runjs",
+  "keywords": [
+    "run",
+    "execute",
+    "javascript",
+    "js"
+  ],
+  "repository": "https://github.com/TimeBomb/inkdrop-runjs",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.x"
+  },
+  "dependencies": {
+    "vm2": "^3.9.2"
+  }
+}
